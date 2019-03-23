@@ -35,10 +35,8 @@ type Item struct {
 }
 
 type App struct {
-	name     string
-	chunk    *Chunk
-	fileList map[string]string
-	readers  int
+	name  string
+	chunk *Chunk
 }
 
 // MatchedItem is struct for seach result
