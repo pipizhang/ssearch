@@ -1,0 +1,36 @@
+    back
+    cheeks
+    chest
+    chin
+    ears
+    eyebrows
+    eyes
+    feet
+
+    fingers
+    foot
+    forehead
+    hair
+    hands
+    head
+    hips
+    knees
+
+    legs
+    lips
+    mouth
+    neck
+    nose
+    shoulders
+    stomach
+    teeth
+
+    teeth
+    throat
+    toes
+    tongue
+    tooth
+    waist
+
+
+
